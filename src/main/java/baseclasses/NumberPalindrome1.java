@@ -28,4 +28,5 @@ public class NumberPalindrome1 {
 			System.out.println("not palindrome");
 		}
 	}
+	
 }
