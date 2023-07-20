@@ -15,6 +15,8 @@ public class LaunchCode {
 		driver.manage().window().maximize();
 		
 		driver.close();
+		
+		System.out.println("hi hello this is Git HUb");
 	}
 }
 // ""
