@@ -7,6 +7,8 @@ public class Practice1 {
 		
 		  
 		  System.out.println("I Am The Iron-man");
+		  
+		  System.out.println("I Am The legend");
 	}
 	
 	
